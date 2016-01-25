@@ -67,10 +67,11 @@ Prøv å ferdigstill docker-compose.yml!
 ###Oppgave 3
 ##### Utforsk, lek og tafs på Docker
 
-		Har du noe eget prosjekt du vil prøve å dockerifisere?
-		Lyst å prøve å hive containeren din ut i en cloud?
-		Utforske docker sitt REST API
-		Utforske docker hub
-		Sette opp Continues Delivery med Docker
-		Play with docker!
+* Har du noe eget prosjekt du vil prøve å dockerifisere?
+* Lyst å prøve å hive containeren din ut i en cloud?
+* Utforske docker sitt REST API
+* Utforske docker hub
+* Sette opp Continues Delivery med Docker
+* Utforske andre alternative container teknologier ([lxd](http://www.ubuntu.com/cloud/lxd), [rkt](https://github.com/coreos/rkt), andre?), 
+* Play with docker!
 
