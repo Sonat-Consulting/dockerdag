@@ -69,5 +69,7 @@ Prøv å ferdigstill docker-compose.yml!
 
 		Har du noe eget prosjekt du vil prøve å dockerifisere?
 		Lyst å prøve å hive containeren din ut i en cloud?
+		Utforske docker sitt REST API
+		Utforske docker hub
 		Play with docker!
 
