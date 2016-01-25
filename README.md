@@ -71,5 +71,6 @@ Prøv å ferdigstill docker-compose.yml!
 		Lyst å prøve å hive containeren din ut i en cloud?
 		Utforske docker sitt REST API
 		Utforske docker hub
+		Sette opp Continues Delivery med Docker
 		Play with docker!
 
