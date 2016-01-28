@@ -45,8 +45,10 @@ Spør om hjelp hvis en sitter fast.
 
 3. SimpleNancy  (.NET , denne e litt avansert og mest med som showcase)
 
-		Bygg og kjør den opp .net way (I dont have a clue :fu: )
-		curl localhost:8082/ping
+        cd SimpleNancy
+        xbuild SimpleNancy.sln
+        mono ./SimpleNancy.SelfHost/bin/Debug/SimpleNancy.SelfHost.exe
+		curl localhost:8082/ping (eller bruk browser)
 
 
 Alle web applikasjoner har en løsningsmappe. Dette er til bruk i steg 2 hvis du ikke fikk til denne oppgaven. Spør om hjelp hvis en sitter fast.
