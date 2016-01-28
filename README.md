@@ -10,7 +10,7 @@
 ##Oppgaver:
 
 Last ned kode: 
-		git clone https://github.com/Roykk/dockerdag
+		git clone https://github.com/Sonat-Consulting/dockerdag.git
 
 Opprett en dockermaskin:
 
@@ -55,7 +55,7 @@ Alle web applikasjoner har en løsningsmappe. Dette er til bruk i steg 2 hvis du
 
 
 ###Oppgave 2
-##### Bli kjent med docker-compose: Få servicer til å prate sammen! Java --> Node --> MongoDB
+##### Bli kjent med docker-compose: Få servicer til å prate sammen! Java --> Node --> MongoDB eller .NET --> Node --> MongoDB
 
 		Gå til dockerdag, og se på docker-compose.yml
 		docker-compose up
@@ -71,9 +71,18 @@ Prøv å ferdigstill docker-compose.yml!
 
 * Har du noe eget prosjekt du vil prøve å dockerifisere?
 * Lyst å prøve å hive containeren din ut i en cloud?
-* Utforske docker sitt REST API
-* Utforske docker hub
-* Sette opp Continues Delivery med Docker
-* Utforske andre alternative container teknologier ([lxd](http://www.ubuntu.com/cloud/lxd), [rkt](https://github.com/coreos/rkt), andre?), 
-* Play with docker!
+* Utforske docker sitt REST API?
+* Lyst å leke med Docker Swarm?
+* Utforske docker hub?
+* Sette opp Continues Delivery med Docker?
+* Utforske andre alternative container teknologier ([lxd](http://www.ubuntu.com/cloud/lxd), [rkt](https://github.com/coreos/rkt), andre?)?
+* Play with docker! 
+
+Vi avslutter dagen med at alle grupper fremlegger hva de har jobbet med, og hvordan det gikk. Tenk også på følgende spørsmål for diskusjon:
+
+* Hva er lett? Hva er vanskelig?
+* Utfordringer?
+* Vil du anbefale Docker til kunden?
+* Etter din mening: Når bruke Docker og når IKKE bruker Docker?
+
 
