@@ -17,7 +17,7 @@ app.get('/ping', function (req, res) {
 app.get('/nodeInsert', function (req, res) {
     MongoClient.connect(mongoDbUrl, function (err, db) {
       if(err){
-        res.send('<h1>Seriously?? Connecting to non existing MongoDB?</h1><div> I would recommend you get this <b>mongodb://localhost:27017/basenmin</b> running first!</div> <p style="color:red"> '+err + '</p>');
+        res.send('<h1>Seriously?? Connecting to non existing MongoDB?</h1><div> I would recommend you get this <b>mongodb://mongo-db-host:27017/basenmin</b> running first!</div> <p style="color:red"> '+err + '</p>');
       } else {
         assert.equal(null, err);
         insertHitCount(db, function () {
